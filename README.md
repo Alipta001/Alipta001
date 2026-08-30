@@ -70,9 +70,10 @@
 ![Alipta's GitHub Trophies](./profile/trophy.svg)
 
 ---
+
 # 📈 Contribution Graph
 
-![Alipta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alipta001&theme=github-dark&hide_border=true)
+![Alipta's GitHub Activity Graph](https://raw.githubusercontent.com/Alipta001/Alipta001/output/activity-graph.svg)
 
 ---
 
