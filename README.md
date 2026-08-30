@@ -67,7 +67,7 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Alipta001&theme=tokyonight&no-frame=true&margin-w=10)
+![Alipta's GitHub Trophies](./profile/trophy.svg)
 
 ---
 # 📈 Contribution Graph
