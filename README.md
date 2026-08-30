@@ -70,10 +70,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Alipta001&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
-
 # 📈 Contribution Graph
 
-[![Alipta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alipta001&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alipta001&theme=tokyo-night)
 
 ---
 
