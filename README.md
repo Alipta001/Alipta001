@@ -72,7 +72,7 @@
 ---
 # 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alipta001&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alipta001&theme=tokyo-night&hide_border=true)
 
 ---
 
